@@ -20,7 +20,7 @@
  <summary>Table of Contents</summary>
  <ol>
   <li>
-   <a href="#about-the-game">About the Project</a>
+   <a href="#about-the-game">About the Game</a>
    <ul>
     <li><a href="#built-with">Built With</a></li>
    </ul>
